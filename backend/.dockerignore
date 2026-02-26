@@ -1,0 +1,26 @@
+# Build artifacts
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Version control
+.git/
+.gitignore
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+.project
+.classpath
+.settings/
+
+# Node project files (just in case)
+node_modules/
+
+# Logs
+*.log
